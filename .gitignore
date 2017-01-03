@@ -1,0 +1,6 @@
+
+.idea/
+ib_historical_data.py
+ib_interface.pyc
+ib_test.py
+local_secret.py
